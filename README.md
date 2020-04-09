@@ -7,6 +7,8 @@ where data is stored _naturally_ on underlying filesystem.
 
 This project gives an introduction to use Eclipse for writing and managing your data.
 
+![Editor Window](editor.jpg)
+
 ## Why is this needed?
 
 My company uses a Wiki with a bad UX. It is fine to share knowledge, but not fun 
