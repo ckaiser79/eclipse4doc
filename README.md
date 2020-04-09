@@ -146,4 +146,4 @@ Set a dictionary in your language, German in my case (Window / Preferences / Gen
 # References
 
 - [Preview files in Eclipse, Stackoverflow](https://stackoverflow.com/questions/12321591/how-to-have-eclipse-automatically-open-preview-files-as-i-select-them-in-project)
-)
+
